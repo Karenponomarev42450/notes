@@ -15,3 +15,6 @@ Let's GO
 
 # 2023-11-19
 - "Keep it simple, stupid!"
+
+# 2023-11-20
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, making sure to allow enough time so you don't feel rushed or overwhelmed. Finally, use task management tools like Trello or Asana to keep track of your progress and make adjustments as needed. By following these steps, you can stay focused and efficient in the digital age.
