@@ -21,3 +21,8 @@ Let's GO
 
 # 2023-11-21
 - "Keep it simple, stupid!"
+
+# 2023-11-22
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. Then, break down larger projects into smaller, manageable tasks. By doing this, you can better track your progress and ensure that you complete each task properly.
+
+Remember to stay flexible and adapt to changes in the project. You might need to re-prioritize tasks or adjust your timeline if something unexpected happens. It' s also important to document your process and the decisions you make along the way. Not only will this help with collaboration, but it will also serve as a valuable reference for future projects. Finally, always be open to learning and growing as an engineer. The more you know, the better you will become at solving problems and creating innovative solutions.
