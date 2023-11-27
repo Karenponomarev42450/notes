@@ -46,3 +46,9 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2023-11-26
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. By using version control systems like Git, you can easily track and manage your code, making it easier to collaborate with others and keep your project organized and up-to-date. Always strive to write clean, readable code that follows best practices and programming standards. Embrace the use of automation tools and techniques, such as continuous integration and continuous deployment (CI/CD), to save time and reduce the risk of errors. Finally, always be open to learning new technologies and adapting to the ever-changing world of programming.
+
+# 2023-11-27
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving higher priority to tasks that require more time and effort, you can ensure that they are completed on time.
+
+Second, make a plan for your day or week, breaking down larger projects into smaller, manageable tasks. Using a task management tool, such as Trello or Asana, can help keep you organized and on track. Set reminders and deadline for each task, so that you stay focused and don't procrastinate. 
+ - 来自n.p.s.
