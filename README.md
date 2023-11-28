@@ -52,3 +52,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 Second, make a plan for your day or week, breaking down larger projects into smaller, manageable tasks. Using a task management tool, such as Trello or Asana, can help keep you organized and on track. Set reminders and deadline for each task, so that you stay focused and don't procrastinate. 
  - 来自n.p.s.
+
+# 2023-11-28
+- "Keep it simple, stupid!"
