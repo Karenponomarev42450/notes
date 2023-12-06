@@ -85,3 +85,6 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 4. Ask for feedback: Seek feedback from peers, mentors,or even random people on your code. It will help identify areas for improvement and give you a better understanding of how others view your work.   
 5. Be open-minded: Try new things and don' t be afraid to make mistakes. Embrace the learning process and use each mistake as an opportunity to grow and improve.    
 6. Stay organized: Keep your projects, codebase, notes, etc. well-organized and documented.This will make it easier to find and fix any issues that may arise and also make your coding process more efficient.
+
+# 2023-12-06
+- "Keep it simple, stupid!"
