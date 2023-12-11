@@ -100,3 +100,10 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 
 # 2023-12-10
 - "Keep it simple, stupid!"
+
+# 2023-12-11
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
+ - 学习新技能和知识，保持与时俱进。
+- 对基本原理有深入理解，如数据结构、算法、计算机架构、操作系统等。
