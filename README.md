@@ -107,3 +107,8 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will serve as a strong foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
  - 学习新技能和知识，保持与时俱进。
 - 对基本原理有深入理解，如数据结构、算法、计算机架构、操作系统等。
+
+# 2023-12-12
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote reminds us that while optimizing code for efficiency is important, it shouldn't be done prematurely or without careful consideration. Often, optimizing too early can lead to more complex and harder-to-maintain code, as well as potentially introducing bugs. Instead, it's better to write clear and simple code first, and then optimize only when necessary, based on profiling and measurement of performance bottlenecks.
