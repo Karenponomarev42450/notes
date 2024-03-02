@@ -484,3 +484,6 @@ In practice, this means understanding that while efficiency is important, it sho
 
 # 2024-03-01
 - "Today's programming wisdom is to embrace the SOLID principles. SOLID stands for Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These principles serve as guidelines to write clean, maintainable, and scalable code that's easier to understand, modify, and extend over time. They promote clear separation of concerns, flexibility through abstraction, and loose coupling between software components, which are fundamental to building robust and sustainable software systems."
+
+# 2024-03-02
+- "Keep it simple, stupid!"
