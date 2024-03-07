@@ -501,3 +501,10 @@ In practice, this means understanding that while efficiency is important, it sho
 
 # 2024-03-06
 - "Keep it simple, stupid!"
+
+# 2024-03-07
+- Today's programming wisdom is to be a lifelong learner and to always stay up-to-date with the latest technologies and programming languages. This means regularly reading blogs, articles, and books, as well as attending conferences and workshops. By staying current, you can better understand the industry trends and make more informed decisions about your career.
+
+Another important aspect of programming wise is communication. As a programmer, it is essential to communicate effectively with your team members, clients, managers, etc. Good communication skills can help you build strong relationships, resolve conflicts,and improve your overall productivity. Make sure to practice your written and verbal communication skill regularly. 
+ 此外，编程智慧的另一个重要方面是解决问题的能力。在编程过程中，你可能会遇到各种问题和挑战。学会如何冷静分析问题，找到解决方案，并迅速采取行动是至关重要的。培养批判性思维和创新能力，以便在面对问题时能够提出独特的解决方案。
+ 最后，保持耐心和毅力也是编程的智慧。编程可能会很枯燥，也很容易让人气馁。保持积极的心态，相信自己能够克服困难，是成功的关键。当你遇到困难时，不要轻易放弃，而是寻求帮助，学习新技能，不断提高自己。这样，你将在编程领域取得更大的成功。
